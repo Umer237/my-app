@@ -1,0 +1,43 @@
+.NavBar{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+.Header-Flex{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.Logo{
+    font-size: 35px;
+    font-family: "Poppins";
+    font-weight: 500;
+    color: #211213;
+    text-decoration: none;
+}
+.NavBar li {
+    display: inline;
+    padding: 20px;
+    
+}
+.NavBar li a{
+    font-size: 15px;
+    font-family: "Poppins";
+    font-weight: 500;
+    color: #2D1E1F;
+    text-decoration: none;
+
+}
+.NavBar button{ 
+    background: #FF6525;
+    padding: 16px;
+    margin-left: 10px;
+    border-radius: 6px;
+    color: #fff;
+    border: None;
+    font-family: "Poppins";
+    cursor: pointer;
+}

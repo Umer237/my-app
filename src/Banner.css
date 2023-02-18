@@ -1,0 +1,26 @@
+.Background{
+    background-color: #FEF9F3;
+    padding-left: 250px;
+}
+.Banner-Things{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.Banner-Things img{
+    width: 950px;
+}
+.Banner-Things h1 {
+    font-size: 70px;
+    font-weight: 600;
+    font-family: "Poppins";
+    color: #2C090B;
+}
+.Banner-Things  p {
+    font-size: 18px;
+    font-weight: 450;
+    font-family: "Poppins";
+    width: 600px;
+    padding-top: 60px;
+    letter-spacing: 1px;
+}

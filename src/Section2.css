@@ -1,0 +1,24 @@
+.Section2-Text {
+    padding-top: 40px;
+}
+
+.Section2-Text h3 {
+    font-size: 22px;
+    font-weight: 600;
+    font-family: "Poppins";
+    letter-spacing: 4px;
+    text-align: center;
+    color: #8C8C8C;
+  }
+  .Section2-Text h1{
+    text-align: center;
+    font-family:"Poppins" ;
+    font-size: 45px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #402123;
+  }
+  .Section2-Text img{
+    padding-top: 70px;
+  }
+  
