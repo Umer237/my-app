@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+
+}
+
+h1{
+    font-size: 70px;
+    font-weight: 500;
+}
+p{
+    font-size: 16px;
+    font-weight: 600;
+}
+h2{
+    
+}
