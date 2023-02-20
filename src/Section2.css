@@ -16,9 +16,35 @@
     font-size: 45px;
     font-weight: 500;
     letter-spacing: 1px;
-    color: #402123;
+    color: #300E10;
   }
-  .Section2-Text img{
-    padding-top: 70px;
+  .Team-1{
+    transform: translate(0,-150px);
+   
+    position: absolute;
+    left: 12%;
   }
+  .Team-2{
+    transform: translate(190px,0) ;
+    position: absolute;
+    transform: rotate(20deg) ;
+    left: 30% ;
   
+  }
+  .Team-3{
+    transform: translate(0,190px);
+    position: absolute;
+    transform: rotate(5deg) ;
+    left: 42%;
+  }
+  .Team-4{
+   transform: translate(0,-150px);
+   position: absolute;
+   left: 57%;
+  }
+  .Team-5{
+    transform: translate(0,-50px);
+    position: absolute;
+    transform: rotate(-15deg) ;
+    left: 75%;
+  }
