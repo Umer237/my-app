@@ -1,0 +1,42 @@
+.Section-4-Flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.image img{
+    width: 600px;
+    padding-top: 100px;
+}
+.Section-4-Text{
+    font-family: "Poppins";
+    padding-top: 15%;
+}
+.Section-4-Text h1{
+    font-size: 25px;
+    font-weight: 500;
+    color: #a09e9e;
+}
+.Section-4-Text h3{
+    font-size: 40px;
+    font-weight: 500;
+    width:500px ;
+    color: #2C090B;
+}
+.Section-4-Text h4{
+    font-weight: 500;
+    font-size: 14px;
+    width: 400px;
+    padding-top: 25px;
+}
+.Section-4-Text p{
+    font-weight: 500;
+    font-size: 14px;
+    width: 400px;
+    padding-top: 20px;
+}
+.Contact {
+    width: 40px;
+    border-radius: 100%;
+    margin-top:20px ;
+    border: 1px solid rgb(255, 255, 255);
+}

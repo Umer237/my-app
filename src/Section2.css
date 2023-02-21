@@ -48,3 +48,35 @@
     transform: rotate(-15deg) ;
     left: 75%;
   }
+  .Team-Flex{
+    display: flex;
+    justify-content: center;
+    padding-top: 300px;
+}
+.Background-Team{
+    background-color: rgb(158, 158, 158);
+    width:150px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+}
+.Team-Flex{
+    text-align: center;
+}
+.Team-Flex img{
+    width: 85px;
+    border-radius: 100%;
+}
+.Team-Flex h1{
+    font-family: "Poppins";
+    font-size:15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color:#000;
+}
+.Team-Flex p{
+    font-size: 11px;
+    font-family: "Poppins";
+    font-weight: 400;
+    color:#000;
+}
