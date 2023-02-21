@@ -1,0 +1,124 @@
+.Section-5-Text {
+  text-align: center;
+  font-family: "Poppins";
+}
+.Section-5-Text h2 {
+  font-size: 25px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  color: #696767;
+}
+.Section-5-Text h1 {
+  font-weight: 500;
+  font-size: 40px;
+  letter-spacing: 1px;
+  color: #230202;
+}
+.Section-5-Background{
+    background: #FCF7F1;
+    margin-top: 60px;
+}
+.Board-Flex-Text {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: "Poppins";
+  padding-top: 120px;
+}
+.Board-1{
+    box-shadow: 1px 2px 9px rgb(207, 205, 205);
+    padding: 50px;
+    background: #fff;
+}
+.Board-2{
+    box-shadow: 1px 2px 9px rgb(207, 205, 205);
+    padding: 50px;
+    background: #fff;
+}
+.Board-3{
+    box-shadow: 1px 2px 9px rgb(207, 205, 205);
+    padding: 50px;
+    background: #fff;
+}
+
+.Board-1 h1 {
+  font-weight: 500;
+}
+.Board-2 h1 {
+  font-weight: 500;
+}
+.Board-3 h1 {
+  font-weight: 500;
+}
+.Board-1 h2{
+    font-weight: 600;
+}
+.Board-2 h2{
+    font-weight: 600;
+}
+.Board-3 h2{
+    font-weight: 600;
+}
+.Board-1 p{
+    font-size: 15px;
+    font-weight: 400;
+    width: 250px;
+    padding-top: 5px;
+}
+.Board-2 p{
+    font-size: 15px;
+    font-weight: 400;
+    width: 250px;
+    padding-top: 5px;
+}
+.Board-3 p{
+    font-size: 15px;
+    font-weight: 400;
+    width: 250px;
+    padding-top: 5px;
+}
+.Board-1 h3{
+    font-weight: 500;
+    font-size: 15px;
+}
+.Board-2 h3{
+    font-weight: 500;
+    font-size: 15px;
+}
+.Board-3 h3{
+    font-weight: 500;
+    font-size: 15px;
+}
+.Icon-2 {
+    font-size: 35px;
+    margin-right: 10px;
+    color: rgb(45, 212, 101);
+    border-radius: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    background: #E0F4EB;
+  }
+  button.btn{
+    padding: 10px;
+    width: 260px;
+    font-size: 15px;
+    border: 2px solid rgb(255, 115, 0);
+    background: #fff;
+    margin-top: 15px;
+    border-radius: 10px;
+    text-align: left;
+    font-weight: 500;
+    font-family: "Poppins";
+  }
+  button.btn:hover{
+    cursor: pointer;
+    background: #FF6525;
+  }
+  .Board-1-Things{
+    padding-top: 15px;
+  }
+  .Board-2-Things{
+    padding-top: 15px;
+  }
+  .Board-3-Things{
+    padding-top: 15px;
+  }

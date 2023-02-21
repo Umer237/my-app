@@ -1,0 +1,46 @@
+.End-Footer-Div {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 20px;
+}
+.End-Footer-Div h1 {
+  font-weight: 400;
+  font-size: 30px;
+}
+.End-Footer-Div h2 {
+  font-weight: 500;
+  font-size: 15px;
+  padding: 10px;
+}
+.Icons-Footer {
+  display: flex;
+  gap: 10px;
+}
+.Icon-1-Footer {
+  font-size: 17px;
+  color: #000;
+  border-radius: 100px;
+  padding: 10px;
+}
+.Icon-2-Footer {
+  font-size: 17px;
+  color: #000;
+  border-radius: 100px;
+
+  padding: 10px;
+}
+.Icon-3-Footer {
+  font-size: 17px;
+  color: #000;
+  border-radius: 100px;
+  padding: 10px;
+}
+.Icon-4-Footer {
+  font-size: 17px;
+  color: #000;
+  border-radius: 100px;
+  padding:10px;
+}
+.Servies-Footer {
+  display: flex;
+}

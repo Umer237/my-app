@@ -1,0 +1,61 @@
+.Section-6-Div {
+  background: #fe6d44;
+  margin: 120px;
+  border-radius: 30px;
+}
+.Section-6-Text {
+  text-align: center;
+  font-family: "Poppins";
+  padding-top: 70px;
+}
+.Section-6-Text h1 {
+  font-weight: 500;
+  color: #fff;
+}
+.Section-6-Text p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #fff;
+}
+.Boxes {
+  display: flex;
+  gap: 50px;
+  padding-top: 25px;
+  margin-bottom: 55px;
+  cursor: pointer;
+}
+.Section-6-Things {
+  display: flex;
+  justify-content: space-around;
+  font-family: "Poppins";
+}
+
+.Small-Boxe-1 {
+  display: flex;
+  background: #fff;
+  padding: 8px;
+  height: 65px;
+  border-radius: 8px;
+}
+.Small-Boxe-2 {
+  display: flex;
+  background: #fff;
+  padding: 8px;
+  height: 65px;
+  border-radius: 8px;
+}
+.Play-Store {
+  font-size: 35px;
+}
+.Apple-Store {
+  font-size: 35px;
+}
+.Icon-Text p {
+  font-size: 15px;
+  padding-left: 5px;
+}
+.Icon-Text h2 {
+  font-size: 20px;
+  font-weight: 500;
+  padding-left: 5px;
+}
