@@ -1,6 +1,5 @@
 .Background{
     background-color:#FFF9F4;
-    padding-left: 250px;
     margin-top: 30px;
 }
 .Banner-Things{
@@ -15,6 +14,7 @@
 .Banner-Things h1 {
     font-size: 70px;
     font-weight: 600;
+    padding-top: 10px;
     font-family: "Poppins";
     color:#2C090B;
 }
@@ -25,4 +25,25 @@
     width: 600px;
     padding-top: 60px;
     letter-spacing: 1px;
+}
+@media only screen and (max-width: 320px) {
+    .Banner-Things h1 {
+        font-size: 30px;
+        font-weight: 600;
+        text-align: center;
+        font-family: "Poppins";
+        color:#2C090B;
+    }
+    .Banner-Things{
+        text-align: center;
+    }
+    .Banner-Things  p {
+        font-size: 12px;
+        font-weight: 450;
+        font-family: "Poppins";
+        width:300px;
+        margin: auto;
+        padding-top: 20px;
+        letter-spacing: 1px;
+    }
 }

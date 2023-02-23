@@ -9,7 +9,6 @@ import Section6 from './Section6'
 import Footer from './Footer'
 
 
-
 const Home = () => {
   return (
   <>
