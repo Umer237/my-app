@@ -9,12 +9,14 @@ const Section3 = () => {
   return (
     <>
       <div className="Section-3">
+        <div className="Section-3-Photo">
         <img src={Cam} alt="" />
+        </div>
         <div>
           <h3>GET CONNECTED</h3>
           <h2>Share your memories with your travel buddys</h2>
           <div className=" Second-Text">
-            <div style={{display:"flex"}}>
+            <div className="Second-Text-Flex">
             <div className="Second-icon">
               <TbCrosshair className="Icon-1" />
             </div>
@@ -25,10 +27,10 @@ const Section3 = () => {
               platform.
             </p>
             </div>
-            </div>
+           
           </div>
           <div className=" Second-Text">
-            <div style={{display:"flex"}}>
+            <div className="Second-Text-Flex">
             <div className="Second-icon">
               <FaRegLightbulb className="Icon-1" />
             </div>
@@ -42,7 +44,7 @@ const Section3 = () => {
             </div>
           </div>
           <div className=" Second-Text">
-            <div style={{display:"flex"}}>
+            <div className="Second-Text-Flex">
             <div className="Second-icon">
               <TbCircles className="Icon-1" />
             </div>
@@ -54,8 +56,9 @@ const Section3 = () => {
             </p>
             </div>
             </div>
+            </div>
           </div>
-        </div>
+        </div> 
       </div>
     </>
   );

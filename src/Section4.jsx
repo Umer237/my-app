@@ -15,11 +15,13 @@ const Section4 = () => {
     <h1>POPULAR TRAVELLERS</h1>
     <h3>Know the people you,re going to meet</h3>
     <h4>Have a quick conversation anytime you need with your fellow travellers you,re going to travel with. </h4>
+    <div className='Section-4-Icon'>
     <img className='Contact' src={Girl} alt="" />
     <img className='Contact' src={Alexander} alt="" />
     <img className='Contact' src={Nicolas} alt="" />
     <img className='Contact' src={Egypt} alt="" />
     <BsPlus className='Plus'/>
+    </div>
     <p>with one simple click you can know who you can have as your travel buddy.</p>
     </div>
     <div className='image'>

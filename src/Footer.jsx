@@ -12,7 +12,7 @@ const Footer = () => {
   return (
 <>
 <div className='Footer-FLex'>
-    <div className='Footer-Section-1'>
+    <div className='Footer-Section-1 Footer-Section'>
     <h1>Company</h1>
     <h3>Careers</h3>
     <h3>About Us</h3>
@@ -21,14 +21,14 @@ const Footer = () => {
     <h3>Feautures</h3>
     <h3>Successes</h3>
     </div>
-    <div className='Footer-Section-2'>
+    <div className='Footer-Section-2 Footer-Section'>
         <h1>Travellers</h1>
         <h3>Enterprise</h3>
         <h3>Customer Stories</h3>
         <h3>Pricing</h3>
         <h3>Security</h3>
     </div>
-    <div className='Footer-Section-3'>
+    <div className='Footer-Section-3 Footer-Section'>
         <h1>Resources</h1>
         <h3>Download</h3>
         <h3>Help Center</h3>
@@ -38,7 +38,7 @@ const Footer = () => {
         <h3>App Directory</h3>
         <h3>Partners</h3>
     </div>
-    <div className="Footer-Section-4">
+    <div className="Footer-Section-4 Footer-Section">
         <h1>Extras</h1>
         <h3>Podcast</h3>
          <h3>Travellers Shop</h3>

@@ -1,7 +1,9 @@
 .Section-3 {
   padding-top: 150px;
-  display: flex;
+  display:flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
+  padding: 10px;
 }
 .Section-3 h3 {
   font-family: "Poppins";
@@ -32,6 +34,9 @@
 .Second-Text {
   padding-top: 50px;
 }
+.Second-Text-Flex{
+  display: flex;
+}
 .Icon-1 {
   font-size: 45px;
   margin-right: 10px;
@@ -43,5 +48,75 @@
 }
 .Second-icon-text {
   display: flex;
+}
+@media only screen and (max-width: 900px) {
+  .Section-3 h3 {
+    font-family: "Poppins";
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #8c8c8c;
+    font-weight: 600;
+    padding-top: 100px;
+  }
+}
+@media only screen and (max-width:620px){
+  .Section-3 h3 {
+    font-family: "Poppins";
+    font-size: 25px;
+    letter-spacing: 1px;
+    color: #8c8c8c;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 50px;
+  }
+  .Section-3 h2 {
+    font-family: "Poppins";
+    font-size: 40px;
+    text-align: center;
+    font-weight: 400;
+    width: 600px;
+    color: #230202;
+  
+  }
+  .Second-Text-Flex{
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .Section-3 h3 {
+    font-family: "Poppins";
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #8c8c8c;
+    font-weight: 600;
+    padding-top: 50px;
+  }
+  .Section-3 h2 {
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 250px;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    color: #230202;
+  }
+  .Second-Text h4{
+    font-size: 15px;
+  }
+  .Second-Text p{
+    font-size: 12px;
+    width: 200px;
+  }
+  .Second-Text-Flex{
+    align-items: center;
+    justify-content: center;
+  }
+  .Section-3-Photo img {
+    width: 100%;
+    height: auto; 
+  }
 }
 

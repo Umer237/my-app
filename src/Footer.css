@@ -35,12 +35,17 @@
 .End-Footer-Div {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
     padding-bottom: 20px;
   }
   .End-Footer-Div h1 {
     font-weight: 400;
     font-size: 30px;
   }
+  .Footer-Section{
+    padding: 10px;
+  }
+
   .End-Footer-Div h2 {
     font-weight: 500;
     font-size: 15px;
@@ -78,4 +83,5 @@
   .Servies-Footer {
     display: flex;
   }
+ 
   

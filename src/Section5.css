@@ -23,21 +23,34 @@
   justify-content: space-evenly;
   font-family: "Poppins";
   padding-top: 120px;
+  flex-wrap: wrap;
+padding-bottom: 10px;
+}
+.Board-1:hover{
+  box-shadow: 1px 2px 9px rgb(207, 205, 205);
+
 }
 .Board-1{
     box-shadow: 1px 2px 9px rgb(207, 205, 205);
-    padding: 50px;
     background: #fff;
+    padding: 50px;
+    margin-top: 10px;
+    border-radius: 5px;
+    
 }
 .Board-2{
     box-shadow: 1px 2px 9px rgb(207, 205, 205);
     padding: 50px;
     background: #fff;
+    margin-top: 10px;
+    border-radius: 5px;
 }
 .Board-3{
     box-shadow: 1px 2px 9px rgb(207, 205, 205);
     padding: 50px;
     background: #fff;
+    margin-top: 10px;
+    border-radius: 5px;
 }
 
 .Board-1 h1 {
@@ -122,3 +135,35 @@
   .Board-3-Things{
     padding-top: 15px;
   }
+  @media only screen and (max-width: 380px) {
+    .Board-Flex-Text {
+   padding: 10px;
+    }
+    .Section-5-Text h2 {
+      font-size: 15px;
+      font-weight: 500;
+      letter-spacing: 1px;
+      color: #696767;
+    }
+    .Section-5-Text h1 {
+      font-weight: 500;
+      font-size: 25px;
+      letter-spacing: 1px;
+      width: 315px;
+      padding: 10px;
+      color: #230202;
+    }
+  }
+  @media only screen and (max-width: 320px) {
+    .Board-1{
+      padding: 20px;
+  }
+  .Board-2{
+    padding: 20px;
+}
+.Board-3{
+  padding: 20px;
+}
+  }
+
+
