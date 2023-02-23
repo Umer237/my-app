@@ -27,8 +27,13 @@
 padding-bottom: 10px;
 }
 .Board-1:hover{
-  box-shadow: 1px 2px 9px rgb(207, 205, 205);
-
+  box-shadow: 10px 5px 40px rgb(207, 205, 205);
+}
+.Board-2:hover{
+  box-shadow: 10px 5px 40px rgb(207, 205, 205);
+}
+.Board-3:hover{
+  box-shadow: 10px 5px 40px rgb(207, 205, 205);
 }
 .Board-1{
     box-shadow: 1px 2px 9px rgb(207, 205, 205);
