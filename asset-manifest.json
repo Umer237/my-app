@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.62f50a91.css",
+    "main.js": "/my-app/static/js/main.0782e074.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Alexander.jpg": "/my-app/static/media/Alexander.21beb1dda1b5ca293c3b.jpg",
+    "static/media/Nicolas.jpg": "/my-app/static/media/Nicolas.cb9c7da999a8de9ec5af.jpg",
+    "static/media/Mobile.png": "/my-app/static/media/Mobile.d63b4f25e158bc3c8d86.png",
+    "static/media/Travel.jpg": "/my-app/static/media/Travel.49b87fa90fcd615bd999.jpg",
+    "static/media/CameraMan.png": "/my-app/static/media/CameraMan.f1c1e7e9ddcbe3c77302.png",
+    "static/media/Egypt-Women.jpeg": "/my-app/static/media/Egypt-Women.260d3df9401038fac78d.jpeg",
+    "static/media/Girl.jpeg": "/my-app/static/media/Girl.fc0f3889e17ea0d40e0b.jpeg",
+    "index.html": "/my-app/index.html",
+    "main.62f50a91.css.map": "/my-app/static/css/main.62f50a91.css.map",
+    "main.0782e074.js.map": "/my-app/static/js/main.0782e074.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62f50a91.css",
+    "static/js/main.0782e074.js"
+  ]
+}
