@@ -1,5 +1,5 @@
 import React from 'react'
-import Mob from './images/Mobile.png'
+import Traveler from './images/Traveler.png'
 import './Banner.css'
 
 const Banner = () => {
@@ -12,7 +12,7 @@ const Banner = () => {
     <p>Your ultimate travel companion. Carries all the information you need while travelling</p>
     </div>
     <div>
-    <img src={Mob} alt="" />
+    <img src={Traveler} alt="" />
     </div>
     </div>    
 </div>
