@@ -1,7 +1,8 @@
 .Section-6-Div {
   background: #fe6d44;
-  margin: 120px;
+  margin: 10px;
   border-radius: 30px;
+  width: auto;
 }
 .Section-6-Text {
   text-align: center;
@@ -11,6 +12,7 @@
 .Section-6-Text h1 {
   font-weight: 500;
   color: #fff;
+  padding: 0 10px;
 }
 .Section-6-Text p {
   font-size: 15px;
@@ -20,15 +22,17 @@
 .Boxes {
   display: flex;
   gap: 50px;
+  flex-wrap: wrap;
   padding-top: 25px;
-  margin-bottom: 55px;
+  padding-bottom: 55px;
   cursor: pointer;
+  justify-content: center;
 }
-.Section-6-Things {
+/* .Section-6-Things {
   display: flex;
   justify-content: space-around;
   font-family: "Poppins";
-}
+} */
 
 .Small-Boxe-1 {
   display: flex;

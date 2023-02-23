@@ -125,6 +125,7 @@ padding-bottom: 10px;
   button.btn:hover{
     cursor: pointer;
     background: #FF6525;
+    color: #fff;
   }
   .Board-1-Things{
     padding-top: 15px;

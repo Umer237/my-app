@@ -7,6 +7,7 @@
     align-items: center;
     justify-content: space-around;
     flex-wrap: wrap;
+    padding: 10px;
 }
 .Banner-Things img{
     width: 950px;
@@ -22,8 +23,8 @@
     font-size: 18px;
     font-weight: 450;
     font-family: "Poppins";
-    width: 600px;
-    padding-top: 60px;
+    max-width: 600px;
+    padding-top: 15px;
     letter-spacing: 1px;
 }
 @media only screen and (max-width: 320px) {
@@ -42,8 +43,25 @@
         font-weight: 450;
         font-family: "Poppins";
         width:300px;
-        margin: auto;
         padding-top: 20px;
         letter-spacing: 1px;
     }
+    .Banner-Things img{
+        width: 355px;
+        text-align: center;
+        padding: 30px;
+    }
+}
+@media only screen and (max-width:768px) {
+.Banner-Things img{
+    width: 100%;
+}
+}
+@media only screen and (max-width: 425px) {
+  .Banner-Things h1{
+ font-size: 40px;
+  }
+  .Banner-Things p{
+    font-size: 14px;
+  }
 }
